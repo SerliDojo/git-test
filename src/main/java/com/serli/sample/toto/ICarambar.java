@@ -12,4 +12,5 @@ package com.serli.sample.toto;
 public interface ICarambar {
 
     String makeFun();
+    String haveFun();
 }
