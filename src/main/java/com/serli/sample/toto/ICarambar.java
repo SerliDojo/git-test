@@ -11,6 +11,7 @@ package com.serli.sample.toto;
  */
 public interface ICarambar {
 
+	String intelligent();
     String makeFun();
     String makeLove();
     String haveFun();
