@@ -14,4 +14,5 @@ public interface ICarambar {
     String makeFun();
     String makeLove();
     String haveFun();
+    String notFun();
 }
